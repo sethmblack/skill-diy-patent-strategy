@@ -3,8 +3,9 @@ name: diy-patent-strategy
 description: Help entrepreneurs protect intellectual property on a bootstrap budget and use patents as marketing tools using Sara Blakely's approach.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3850
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - diy-patent-strategy
 - transformation
